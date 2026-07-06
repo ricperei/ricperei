@@ -6,9 +6,10 @@ Welcome to my space!
 * HTML5 <br>
 * CSS <br>
 * Javascript
+* C <br>
+* Shell <br>
+* Linux <br>
 
 ## Actualy learning:
 
-* C<br>
-* Shell<br>  
-* Git<br>
+* Python <br>
