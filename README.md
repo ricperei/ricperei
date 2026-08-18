@@ -1,4 +1,4 @@
-# Rickson Barbosa ✌️
+# Rickson Barbosa
 Programer | Father | Nerd...?
 
 <hr></hr>
